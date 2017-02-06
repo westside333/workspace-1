@@ -41,3 +41,28 @@
 * LiveReload
 * ng-inspector for AngularJS
 * Save to Pocket
+
+
+## Other ( To Ubuntu )
+* Browsers
+* Dev Stack
+* Shutter
+* Gpick
+* Unetbootin
+* Okular
+* Gparted
+* Skype
+* Libreoffice calc
+* VLC
+* Google web designer
+* Gimp
+* Incskape
+* Koala
+* Pencil
+* Rhythmbox music player
+* KTorrent
+* Xmind
+* XML Copy Editor
+* Money manager EX
+* HP
+* Widgets
