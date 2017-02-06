@@ -30,3 +30,14 @@
 * Tab tags
 * Trailingspaces
 * W3CValidation
+
+## Chrome plugins
+* friGate CDN - access to sites
+* Awesome Screenshot: Screen capture, Annotate
+* Bootstrap Grid
+* Grid 960
+* JSON Viewer
+* Live HTTP Headers
+* LiveReload
+* ng-inspector for AngularJS
+* Save to Pocket
