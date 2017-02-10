@@ -25,6 +25,7 @@
 * Indentator( CTRL + ALT + I )
 * Jade
 * LiveReload (need Plugin)
+* PHP-SmartHints
 * Shizimily Multi-Encoding for Brackets
 * Show tabs
 * Tab tags
